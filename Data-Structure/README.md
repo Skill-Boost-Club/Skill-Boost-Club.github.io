@@ -9,9 +9,12 @@
 
 ## [Structure](https://www.w3schools.com/cpp/cpp_structs.asp)
 
-> [Example C program](./Structure/structure.c)
+> Example: [C](./code/Structure/example.c) | [C++](./code/Structure/example.cpp)
 
-Structure is a user-defined data type in C which allows to combine data items of different kinds.
+Structure is a user-defined data type in C or C++ that allows to combine data items of different kinds.
 
 ## Pointer
 
+> Example: [C](./code/Pointer/example.c) | [C++](./code/Pointer/example.cpp) | [Python](./code/Pointer/example.py)
+
+A pointer is a variable whose value is the address of another variable, i.e., direct address of the memory location.
