@@ -2,7 +2,7 @@
 
 ## Data Structures and Algorithms
 
-- [Data Structure](./Data%20Structure/README.md)
+- [Data-Structure](./Data-Structure/README.md)
 - [Algorithm](./Algorithm/README.md)
 
 ## Competitive Programming
